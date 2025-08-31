@@ -1,0 +1,16 @@
+[submodule "Model Development & Experiment Code"]
+	path = Model Development & Experiment Code
+	url = https://github.com/bwbayu/asas_development
+	branch = main
+[submodule "Backend Demo Website"]
+	path = Backend Demo Website
+	url = https://github.com/bwbayu/asas_be
+	branch = main
+[submodule "Frontend Demo Website"]
+	path = Frontend Demo Website
+	url = https://github.com/bwbayu/asas_fe
+	branch = main
+[submodule "Exploration Code"]
+	path = Exploration Code
+	url = https://github.com/bwbayu/llm_aes
+	branch = main
